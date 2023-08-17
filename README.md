@@ -1,4 +1,4 @@
-## Hi! I'm Lucas Edmundo 💡
+## Hi! I'm Lucas Silva 💡
 <div align="center">
   <a href="https://github.com/lucasedmundo11">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasedmundo11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
