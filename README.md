@@ -1,3 +1,8 @@
+# ![Capa]
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ana_mioto)](https://www.instagram.com/ana_mioto) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaclara-amioto)](https://www.linkedin.com/in/anaclara-amioto)
+
+
 ## Hi! I'm Lucas Silva 💡
 <div align="center">
   <a href="https://github.com/lucasedmundo11">
