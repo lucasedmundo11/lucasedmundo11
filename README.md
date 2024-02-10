@@ -1,6 +1,6 @@
 # ![Capa](https://github.com/lucasedmundo11/lucasedmundo11/blob/main/img/wallpaperflare-network.jpg)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucasedmundo@gmail.com)](mailto:lucasedmundo@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-edmundo11)](https://www.linkedin.com/in/lucas-edmundo11)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucasedmundo@gmail.com)](mailto:lucasedmundo@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-edmundo11)](https://www.linkedin.com/in/lucas-edmundo11) [![Kaggle Badge]( https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/lucasedmundo)](https://www.kaggle.com/lucasedmundo)
 
 
 ## Hi! I'm Lucas Silva 💡
