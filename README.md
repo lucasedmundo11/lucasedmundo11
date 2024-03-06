@@ -20,19 +20,6 @@
 </br>
 </br>
 
-[PT] </br>
-👉 Bacharel em Ciência da Computação </br>
-👉 Tecnólogo em Ciência de Dados </br>
-👉 Sou um entusiasta e apaixonado por estudar campos como machine learning, deep learning, MLOps, modelagem matemática, pesquisa operacional, otimização e todo o embasamento teórico envolvido nesses assuntos. </br>
-</br>
-🧠 Paixão por aprender e inovar </br>
-👅 Linguagens: Python, R, SQL, C, C++, Java... </br>
-💻 Áreas de interesse: ciência de dados, machine learning, deep learning, MLOps, estatística, pesquisa operacional, otimização, nuvem, análise de dados... </br>
-</br>
-💭 "Todos os modelos estão errados, alguns são úteis." - George Box
-</br>
-</br>
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucasedmundo11&theme=default&show_icons=true"></a>
 </p>
