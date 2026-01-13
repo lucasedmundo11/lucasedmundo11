@@ -1,5 +1,5 @@
 
-# ![Capa](https://github.com/lucasedmundo11/lucasedmundo11/blob/main/img/linkedin%20wallp.jpg)
+# ![Capa](https://github.com/lucasedmundo11/lucasedmundo11/blob/main/img/image.png)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge\&logo=gmail\&logoColor=white\&link=mailto\:lucasedmundo11@gmail.com)](mailto:lucasedmundo11@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white\&link=https://www.linkedin.com/in/lucas-edmundo11)](https://www.linkedin.com/in/lucas-edmundo11)
