@@ -93,9 +93,3 @@ Databricks, Data Lakes, BI, MLOps, Analytics Pipelines
 
 ---
 
-</br>
-</br>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucasedmundo11&theme=default&show_icons=true"></a>
-</p>
